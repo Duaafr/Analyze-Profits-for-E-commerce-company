@@ -1,5 +1,7 @@
-Analyzed financial data for an e-commerce company using historical datasets from 2024 and 2025. Performed data cleaning and transformation in spreadsheets to ensure accuracy and usability. Applied a variety of spreadsheet formulas to manipulate, aggregate, and summarize data effectively.
+Analyzed financial data for an e-commerce company using historical datasets from 2024 and 2025 through Microsoft Excel. Performed data cleaning and transformation to ensure accuracy and consistency.
 
-Calculated key business metrics such as revenue, costs, and profitability to evaluate the company’s financial performance. Conducted descriptive statistical analysis to identify trends and patterns across different time periods and products.
+Utilized a combination of Excel formulas and functions (such as aggregation and conditional calculations) to manipulate, summarize, and analyze the data. Calculated key business metrics including revenue, costs, and profitability to evaluate overall financial performance.
 
-Developed clear and insightful data visualizations to communicate findings and support decision-making. Presented the analysis through a structured presentation, highlighting key insights and providing recommendations for improving future financial performance.
+Conducted descriptive statistical analysis to identify trends and patterns across products and time periods. Developed clear and insightful Excel visualizations (charts and dashboards) to effectively communicate findings.
+
+Presented the results in a structured presentation, highlighting key insights and providing data-driven recommendations to improve future financial performance.
